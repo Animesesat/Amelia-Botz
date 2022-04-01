@@ -33,6 +33,9 @@ owner Bot, khusus untuk free
 sewa 1 hari bisa pake fitur
 ${prefix}freeoneday <Link Gc>
 tanpa harus chat owner
+
+Kalau mau yang gratis chat 
+Owner biar dimasukkan
 `
 }
 
